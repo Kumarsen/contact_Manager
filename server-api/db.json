@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "uname": "Kumarsen Parida",
+      "email": "k@gmail.com",
+      "password": "1234",
+      "cpassword": "1234",
+      "id": 1
+    },
+    {
+      "uname": "Kumarsen Parida",
+      "email": "krishnaparida35@gmail.com",
+      "password": "1234",
+      "cpassword": "1234",
+      "id": 2
+    }
+  ],
+  "contacts": [
+    {
+      "contactName": "Rahul sanu",
+      "email": "rahul@gmail.com",
+      "phone": 7894787693,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "contactName": "Mahadevi",
+      "email": "mv@yahoo.com",
+      "phone": 7894746812,
+      "userId": 1,
+      "id": 2
+    },
+    {
+      "contactName": "Mr Rohit",
+      "email": "rds@hotmail.com",
+      "phone": 9861728455,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "contactName": "Swati",
+      "email": "dasa@hotmail.com",
+      "phone": 8326454865,
+      "userId": 1,
+      "id": 5
+    }
+  ]
+}
